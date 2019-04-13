@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetCc22_1 Pin=Yc4-1
+Removed Pin From Net: NetName=NetCc21_2 Pin=Yc4-2
+Change Component Comment : Designator=Up1 Old Comment=MAX1674EUA+ New Comment=MAX1674/5
+Change Component Comment : Designator=Up2 Old Comment=MAX1674EUA+ New Comment=MAX1674/5
+Added Pin To Net: NetName=NetCc21_2 Pin=Yc4-1
+Added Pin To Net: NetName=NetCc22_1 Pin=Yc4-2

@@ -1,0 +1,40 @@
+Change Component Footprint: Designator=Cc19 Old Footprint=CAP_EL__TH_rad_r3_15h11_2 New Footprint=ABSM-1574
+Change Component Footprint: Designator=Cp1 Old Footprint=CAP_EL__TH_rad_r3_15h11_2 New Footprint=ABSM-1574
+Change Component Footprint: Designator=Cp4 Old Footprint=CAP_EL__TH_rad_r3_15h11_2 New Footprint=ABSM-1574
+Change Component Footprint: Designator=Cp7 Old Footprint=CAP_EL__TH_rad_r3_15h11_2 New Footprint=ABSM-1574
+Change Component Footprint: Designator=Lc1 Old Footprint=FBead0805 New Footprint=0402-A
+Change Component Footprint: Designator=Jc1 Old Footprint=FTSH-105-01-XXX-DV-K New Footprint=HDR2X5
+Change Component Footprint: Designator=Lp1 Old Footprint=Inductor_radial_TH_r4_35h11 New Footprint=0402-A
+Change Component Footprint: Designator=Lp2 Old Footprint=Inductor_radial_TH_r4_35h11 New Footprint=0402-A
+Change Component Footprint: Designator=Lc2 Old Footprint=L0402 New Footprint=0402-A
+Change Component Footprint: Designator=Lc3 Old Footprint=L0402 New Footprint=0402-A
+Change Component Footprint: Designator=Lc4 Old Footprint=L0402 New Footprint=0402-A
+Change Component Footprint: Designator=Lc5 Old Footprint=L0402 New Footprint=0402-A
+Change Component Footprint: Designator=Dc1 Old Footprint=Led_0603 New Footprint=3.2X1.6X1.1
+Change Component Footprint: Designator=Dc2 Old Footprint=Led_0603 New Footprint=3.2X1.6X1.1
+Change Component Footprint: Designator=Dc3 Old Footprint=Led_0603 New Footprint=3.2X1.6X1.1
+Change Component Footprint: Designator=Dc4 Old Footprint=Led_0603 New Footprint=3.2X1.6X1.1
+Change Component Footprint: Designator=Dc5 Old Footprint=Led_0603 New Footprint=3.2X1.6X1.1
+Change Component Footprint: Designator=Yc1 Old Footprint=XTAL_AB38T-32.768KHZ_TH_vertical New Footprint=R38
+Change Component Comment: Designator=Dc1 Old Comment=150060xx75000 New Comment=LED0
+Change Component Comment: Designator=Dc2 Old Comment=150060xx75000 New Comment=LED0
+Change Component Comment: Designator=Dc3 Old Comment=150060xx75000 New Comment=LED0
+Change Component Comment: Designator=Dc4 Old Comment=150060xx75000 New Comment=LED0
+Change Component Comment: Designator=Dc5 Old Comment=150060xx75000 New Comment=LED0
+Change Component Comment: Designator=Yc1 Old Comment=AB38T-32.768KHZ New Comment=32.768 kHz
+Change Component Comment: Designator=Lc1 Old Comment=CKS2125100M-T New Comment=Inductor
+Change Component Comment: Designator=Cc19 Old Comment=ECA-1HM470 New Comment=Cap
+Change Component Comment: Designator=Cp1 Old Comment=ECA-1HM470 New Comment=Cap Pol1
+Change Component Comment: Designator=Cp4 Old Comment=ECA-1HM470 New Comment=Cap Pol1
+Change Component Comment: Designator=Cp7 Old Comment=ECA-1HM470 New Comment=Cap Pol1
+Change Component Comment: Designator=Jc1 Old Comment=FTSH-105-01-F-DV-K New Comment=Header 5X2
+Change Component Comment: Designator=Lc4 Old Comment=LQG15HS2N0S02D New Comment=Inductor
+Change Component Comment: Designator=Lc5 Old Comment=LQG15HS2N0S02D New Comment=Inductor
+Change Component Comment: Designator=Lc2 Old Comment=LQG15HS2N4S02D New Comment=Inductor
+Change Component Comment: Designator=Lc3 Old Comment=LQG15HS2N4S02D New Comment=Inductor
+Change Component Comment: Designator=Lp1 Old Comment=RLB0912-220KL New Comment=Inductor
+Change Component Comment: Designator=Lp2 Old Comment=RLB0912-220KL New Comment=Inductor
+Change Pin Designator/Name:  Old Designator=Rc1-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=Rc1-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=Uc1B-32 Old Name=DIO_22 New Designator =DIO_23 New Name=36
+Change Pin Designator/Name:  Old Designator=Uc1B-36 Old Name=DIO_23 New Designator =DIO_22 New Name=32

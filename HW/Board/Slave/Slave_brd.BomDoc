@@ -1,0 +1,143 @@
+|RECORD=BOM|VERSION=2|FILENAME=C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\Slave_brd.$$$|KIND=ALTIUM_DESIGNER_LIVEBOM|DATE=03.04.2019|TIME=21:17:09|CURRENCY=|PRODUCTIONQUANTITY=1|PERUNITTARGETPRICE=0|PERUNITACTUALPRICE=0
+|RECORD=GeneralOptions|OPENEXPORTED=False|ADDTOPROJECT=False|FORCEFIT=False|NOTFITTED=False|TEMPLATEFILENAME=|BATCHMODE=0|SUPPLIERPRODQTY=0|SUPPLIERAUTOQTY=False|SUPPLIERUSECACHEDPRICING=False|SUPPLIERCURRENCY=USD|SOLUTIONSPERITEM=1|SUPPLIERSPERSOLUTION=1|DISPLAYTOTALROW=False|DISPLAYSUBTOTALSFORGROUPS=False|INCLUDEPCBPARAMETERS=False|INCLUDEDBPARAMETERS=False|INCLUDEVAULTPARAMETERS=False|INCLUDECLOUDPARAMETERS=False|INCLUDEDOCUMENTPARAMETERS=False|FILTEROUTRISKYSOLUTIONS=True|DESIGNATORGROUPING=No
+|RECORD=SortOrderOptions|SORTORDER=
+|RECORD=GroupOrderOptions|GROUPORDER=
+|RECORD=VisibleOrderOptions|VISIBLEORDER=
+|RECORD=VisibleOrderOptions2|BASEVIEW=Line #=84!Comment=50!Description=80!Designator=78!Quantity=65!Manufacturer 1=100!Manufacturer Part Number 1=138!Manufacturer Lifecycle 1=145!Supplier 1=73!Supplier Part Number 1=111!Supplier Unit Price 1=89!Supplier Subtotal 1=120|FLATVIEW=Line #=52!Comment=122!Description=80!Designator=78!Value=63!Manufacturer 1=100!Manufacturer Part Number 1=138!Manufacturer Lifecycle 1=145!Supplier 1=73!Supplier Part Number 1=111!Supplier Unit Price 1=89!Supplier Subtotal 1=120|CONSOLIDATEDVIEW=Line #=52!Comment=122!Description=104!Designator=559!Manufacturer 1=100!Manufacturer Part Number 1=138!Manufacturer Lifecycle 1=145!Supplier 1=73!Supplier Part Number 1=111!Supplier Unit Price 1=89!Supplier Subtotal 1=120
+|RECORD=CustomColumns|CUSTOMCOLUMNS=
+|RECORD=ColumnsAliases|COLUMNSALIASES=Comment=Name!Manufacturer Part Number 1=Manufacturer PartNo 1!Supplier Part Number 1=Supplier PartNo 1!Supplier Unit Price 1=Actual Price 1
+|RECORD=FilterOptions|FILTER=
+|RECORD=CheckGroupCompParamsOptions|CHECKGROUPCOMPPARAMS=Comment=0,Description=0,Value=0,Footprint=1
+|RECORD=ManufacturerLinkOptions|MANUFACTURERLINKPARAMETERS=
+|RECORD=FavoriteSuppliers|SUPPLIERS=|USESUPPLIERORDER=False
+|RECORD=CheckOptions|CHECKLEVELS=
+|RECORD=LineNumberingOptions|STARTVALUE=|INCREMENT=
+|RECORD=Catalog|DBLINKFILEPATH=
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Miscellaneous Devices.IntLib\Battery|DESIGNITEMID=Battery|ITEMSOURCE=Miscellaneous Devices.IntLib|STATUS=Unknown|DESCRIPTION=Multicell Battery|USERCOMMENTS=Battery|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=Battery,"Multicell Battery"|COMPONENTPARAMETERS=Comment=Battery,"Component Kind=Standard","Description=Multicell Battery",Footprint=BAT-2,"Ibis Model=",LatestRevisionDate=17-Jul-2002,"LatestRevisionNote=Re-released for DXP Platform.","Library Name=Miscellaneous Devices.IntLib","Library Reference=Battery","PackageDescription=Battery; 2 Leads",PackageReference=BAT-2,PCB3D=,Published=24-Mar-1999,"Publisher=Altium Limited",Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Miscellaneous Devices.IntLib\Cap|DESIGNITEMID=Cap|ITEMSOURCE=Miscellaneous Devices.IntLib|STATUS=Unknown|DESCRIPTION=Capacitor|USERCOMMENTS=Cap|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=100pF,Cap,Capacitor|COMPONENTPARAMETERS=Comment=Cap,"Component Kind=Standard",Description=Capacitor,Footprint=RAD-0.3,"Ibis Model=",LatestRevisionDate=17-Jul-2002,"LatestRevisionNote=Re-released for DXP Platform.","Library Name=Miscellaneous Devices.IntLib","Library Reference=Cap","PackageDescription=Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing",PackageReference=RAD-0.3,PCB3D=,Published=8-Jun-2000,"Publisher=Altium Limited",Simulation=CAP,Value=100pF|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Miscellaneous Devices.IntLib\Cap Pol1|DESIGNITEMID=Cap Pol1|ITEMSOURCE=Miscellaneous Devices.IntLib|STATUS=Unknown|DESCRIPTION=Polarized Capacitor (Radial)|USERCOMMENTS=Cap Pol1|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=100pF,"Cap Pol1","Polarized Capacitor (Radial)"|COMPONENTPARAMETERS="Comment=Cap Pol1","Component Kind=Standard","Description=Polarized Capacitor (Radial)",Footprint=RB7.6-15,"Ibis Model=",LatestRevisionDate=17-Jul-2002,"LatestRevisionNote=Re-released for DXP Platform.","Library Name=Miscellaneous Devices.IntLib","Library Reference=Cap Pol1","PackageDescription=Polarized Capacitor (Radial); 2 Leads",PackageReference=RB7.6-15,PCB3D=,Published=8-Jun-2000,"Publisher=Altium Limited",Simulation=CAP,Value=100pF|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Miscellaneous Devices.IntLib\LED0|DESIGNITEMID=LED0|ITEMSOURCE=Miscellaneous Devices.IntLib|STATUS=Unknown|DESCRIPTION=Typical INFRARED GaAs LED|USERCOMMENTS=LED0|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=LED0,"Typical INFRARED GaAs LED"|COMPONENTPARAMETERS=Comment=LED0,"Component Kind=Standard","Description=Typical INFRARED GaAs LED",Footprint=LED-0,"Ibis Model=",LatestRevisionDate=08-Jul-2005,"LatestRevisionNote=Mech Layer 1 removed.","Library Name=Miscellaneous Devices.IntLib","Library Reference=LED0","PackageDescription=LED; 2 Leads",PackageReference=LED-0,PCB3D=,Published=8-Jun-2000,"Publisher=Altium Limited",Simulation=LED0|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Miscellaneous Devices.IntLib\Fuse 1|DESIGNITEMID=Fuse 1|ITEMSOURCE=Miscellaneous Devices.IntLib|STATUS=Unknown|DESCRIPTION=Fuse|USERCOMMENTS=Fuse 1|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=Fuse,"Fuse 1"|COMPONENTPARAMETERS="Comment=Fuse 1","Component Kind=Standard",Description=Fuse,Footprint=PIN-W2/E2.8,"Ibis Model=",LatestRevisionDate=17-Jul-2002,"LatestRevisionNote=Re-released for DXP Platform.","Library Name=Miscellaneous Devices.IntLib","Library Reference=Fuse 1","PackageDescription=Thru-Hole; 2 Leads",PackageReference=PIN-W2/E2.8,PCB3D=,Published=8-Jun-2000,"Publisher=Altium Limited",Simulation=FUSE|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Miscellaneous Connectors.IntLib\Header 5X2|DESIGNITEMID=Header 5X2|ITEMSOURCE=Miscellaneous Connectors.IntLib|STATUS=Unknown|DESCRIPTION=Header, 5-Pin, Dual row|USERCOMMENTS=Header 5X2|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH="Header 5X2","Header, 5-Pin, Dual row"|COMPONENTPARAMETERS="Comment=Header 5X2","Component Kind=Standard","Description=Header, 5-Pin, Dual row",Footprint=HDR2X5,"Ibis Model=",LatestRevisionDate=17-Jul-2002,"LatestRevisionNote=Re-released for DXP Platform.","Library Name=Miscellaneous Connectors.IntLib","Library Reference=Header 5X2",PCB3D=,"Publisher=Altium Limited",Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Wurth_USB-Connectors (rev18d).IntLib\614105150721|DESIGNITEMID=614105150721|ITEMSOURCE=Wurth_USB-Connectors (rev18d).IntLib|STATUS=Unknown|DESCRIPTION=Micro USB 2.0 Type B Receptacle WR-COM, Vertical, THT|USERCOMMENTS=614105150721|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=614105150721,"Micro USB 2.0 Type B Receptacle WR-COM, Vertical, THT"|COMPONENTPARAMETERS=Comment=614105150721,"Component Kind=Standard",ComponentLink1Description=Manufacturer,ComponentLink1URL=http://www.we-online.de,ComponentLink2Description=Datasheet,ComponentLink2URL=https://katalog.we-online.de/em/datasheet/614105150721.pdf,"Connector Type=Micro USB 2.0 Type B","Contact Resistance=30 mOhm","Description=Micro USB 2.0 Type B Receptacle WR-COM, Vertical, THT",Footprint=614105150721,Gender=Receptacle,"Ibis Model=","Library Name=Wurth_USB-Connectors (rev18d).IntLib","Library Reference=614105150721","Mounting Technology=THT","Operating Temperature=-40 to 85 degC",Orientation=Vertical,"Packaging=Tape and Reel","Part Number=614105150721",PCB3D=,"Published Date=September 2018","Publisher=Wurth Elektronik","Rated Current=1.8 A",Simulation=,"Working Voltage=30 VAC"|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Miscellaneous Devices.IntLib\Inductor|DESIGNITEMID=Inductor|ITEMSOURCE=Miscellaneous Devices.IntLib|STATUS=Unknown|DESCRIPTION=Inductor|USERCOMMENTS=Inductor|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=10mH,Inductor,Inductor|COMPONENTPARAMETERS=Code_IEC=1005,Code_JEITA=0402,Comment=Inductor,"Component Kind=Standard",Description=Inductor,Footprint=0402-A,"Ibis Model=",LatestRevisionDate=29-May-2009,"LatestRevisionNote=IPC-7351 Footprint Added.","Library Name=Miscellaneous Devices.IntLib","Library Reference=Inductor","PackageDescription=Chip Inductor",PackageReference=0402-A,PCB3D=,Published=8-Jun-2000,"Publisher=Altium Limited",Simulation=INDUCTOR,Value=10mH|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Miscellaneous Connectors.IntLib\Header 2|DESIGNITEMID=Header 2|ITEMSOURCE=Miscellaneous Connectors.IntLib|STATUS=Unknown|DESCRIPTION=Header, 2-Pin|USERCOMMENTS=Header 2|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH="Header 2","Header, 2-Pin"|COMPONENTPARAMETERS="Comment=Header 2","Component Kind=Standard","Description=Header, 2-Pin",Footprint=HDR1X2,"Ibis Model=",LatestRevisionDate=17-Jul-2002,"LatestRevisionNote=Re-released for DXP Platform.","Library Name=Miscellaneous Connectors.IntLib","Library Reference=Header 2",PCB3D=,"Publisher=Altium Limited",Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Miscellaneous Devices.IntLib\MOSFET-P|DESIGNITEMID=MOSFET-P|ITEMSOURCE=Miscellaneous Devices.IntLib|STATUS=Unknown|DESCRIPTION=P-Channel MOSFET|USERCOMMENTS=MOSFET-P|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=MOSFET-P,"P-Channel MOSFET"|COMPONENTPARAMETERS=Comment=MOSFET-P,"Component Kind=Standard","Description=P-Channel MOSFET",Footprint=E3,"Ibis Model=",LatestRevisionDate=17-Jul-2002,"LatestRevisionNote=Re-released for DXP Platform.","Library Name=Miscellaneous Devices.IntLib","Library Reference=MOSFET-P","PackageDescription=TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.6mm; Lead Dia. 0.5 mm (max)",PackageReference=E3,PackageVersion=1995/1996,PCB3D=,Published=8-Jun-2000,"Publisher=Altium Limited",Simulation=PMOS|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Miscellaneous Devices.IntLib\MOSFET-N|DESIGNITEMID=MOSFET-N|ITEMSOURCE=Miscellaneous Devices.IntLib|STATUS=Unknown|DESCRIPTION=N-Channel MOSFET|USERCOMMENTS=MOSFET-N|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=MOSFET-N,"N-Channel MOSFET"|COMPONENTPARAMETERS=Comment=MOSFET-N,"Component Kind=Standard","Description=N-Channel MOSFET",Footprint=E3,"Ibis Model=",LatestRevisionDate=17-Jul-2002,"LatestRevisionNote=Re-released for DXP Platform.","Library Name=Miscellaneous Devices.IntLib","Library Reference=MOSFET-N","PackageDescription=TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.6mm; Lead Dia. 0.5 mm (max)",PackageReference=E3,PackageVersion=1995/1996,PCB3D=,Published=8-Jun-2000,"Publisher=Altium Limited",Simulation=NMOS|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Miscellaneous Devices.IntLib\Res1|DESIGNITEMID=Res1|ITEMSOURCE=Miscellaneous Devices.IntLib|STATUS=Unknown|DESCRIPTION=Resistor|USERCOMMENTS=Res1|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=1K,Res1,Resistor|COMPONENTPARAMETERS=Comment=Res1,"Component Kind=Standard",Description=Resistor,Footprint=AXIAL-0.3,"Ibis Model=",LatestRevisionDate=17-Jul-2002,"LatestRevisionNote=Re-released for DXP Platform.","Library Name=Miscellaneous Devices.IntLib","Library Reference=Res1","PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing",PackageReference=AXIAL-0.3,PCB3D=,Published=8-Jun-2000,"Publisher=Altium Limited",Simulation=RESISTOR,Value=1K|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Miscellaneous Devices.IntLib\SW DIP-2|DESIGNITEMID=SW DIP-2|ITEMSOURCE=Miscellaneous Devices.IntLib|STATUS=Unknown|DESCRIPTION=DIP Switch, 2 Position, SPST|USERCOMMENTS=SW DIP-2|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH="DIP Switch, 2 Position, SPST","SW DIP-2"|COMPONENTPARAMETERS="Comment=SW DIP-2","Component Kind=Standard","Description=DIP Switch, 2 Position, SPST",Footprint=DIP-4,"Ibis Model=",LatestRevisionDate=17-Jul-2002,"LatestRevisionNote=Re-released for DXP Platform.","Library Name=Miscellaneous Devices.IntLib","Library Reference=SW DIP-2",PackageReference=DIP-4,PCB3D=,Published=24-Mar-1999,"Publisher=Altium Limited",Simulation=dpsw2|CUSTOMPARAMETERS=
+|RECORD=PartChoice|PARTCHOICETYPE=MANUAL|SUPPLIERSOURCE= |MANUFACTURER=CTS|MANUFACTURERPARTNO=219-2MST|SUPPLIER=Digi-Key|SUPPLIERPARTNO=CT2192MST-ND|PROVIDERNAME= |PROVIDERGUID= |DESCRIPTION= |RANK=3|AVAILABLEQUANTITY=42329|BESTUNITPRICE=0|CURRENCY=USD|PRODUCTPHOTOURL= |LASTUPDATED= |PRICECOUNT=9|P1=0.6|Q1=1|P2=0.587|Q2=10|P3=0.5532|Q3=25|P4=0.5192|Q4=85|P5=0.4967|Q5=170|P6=0.4741|Q6=255|P7=0.4289|Q7=510|P8=0.3951|Q8=1020|P9=0.3217|Q9=5015
+|RECORD=PartChoice|PARTCHOICETYPE=MANUAL|SUPPLIERSOURCE= |MANUFACTURER=CTS|MANUFACTURERPARTNO=219-2MSTR|SUPPLIER=Digi-Key|SUPPLIERPARTNO=CT3114CT-ND|PROVIDERNAME= |PROVIDERGUID= |DESCRIPTION= |RANK=3|AVAILABLEQUANTITY=15266|BESTUNITPRICE=0|CURRENCY=USD|PRODUCTPHOTOURL= |LASTUPDATED= |PRICECOUNT=7|P1=0.73|Q1=1|P2=0.718|Q2=10|P3=0.6764|Q3=25|P4=0.6348|Q4=50|P5=0.6072|Q5=100|P6=0.5796|Q6=250|P7=0.5244|Q7=500
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=TexasInstruments.SchLib\CC2650F128RGZ|DESIGNITEMID=CC2650F128RGZ|ITEMSOURCE=TexasInstruments.SchLib|STATUS=Unknown|DESCRIPTION=The CC2650 device is a wireless MCU targeting Bluetooth, ZigBee® and 6LoWPAN, and ZigBee RF4CE
+remote control applications.|USERCOMMENTS=CC2650F128RGZ|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=CC2650F128RGZ,"The CC2650 device is a wireless MCU targeting Bluetooth, ZigBee® and 6LoWPAN, and ZigBee RF4CE
+remote control applications."|COMPONENTPARAMETERS=Comment=CC2650F128RGZ,"Component Kind=Standard",ComponentLink1Description=Datasheet,ComponentLink1URL=http://www.ti.com/product/CC2650,"Description=The CC2650 device is a wireless MCU targeting Bluetooth, ZigBee® and 6LoWPAN, and ZigBee RF4CE
+remote control applications.",Footprint=VQFN-48(RGZ),"Ibis Model=","Library Name=TexasInstruments.SchLib","Library Reference=CC2650F128RGZ",PCB3D=,Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=FTDI.SchLib\FT232B|DESIGNITEMID=FT232B|ITEMSOURCE=FTDI.SchLib|STATUS=Unknown|DESCRIPTION=The FT232B is a USB to serial UART
+interface|USERCOMMENTS=FT232B|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=FT232B,"The FT232B is a USB to serial UART
+interface"|COMPONENTPARAMETERS=Comment=FT232B,"Component Kind=Standard",ComponentLink1Description=Datasheet,ComponentLink1URL=http://www.farnell.com/datasheets/1803231.pdf?_ga=2.42688038.2091339076.1550949916-1549779019.1547751625,"Description=The FT232B is a USB to serial UART
+interface",Footprint=,"Ibis Model=","Library Name=FTDI.SchLib","Library Reference=FT232B",PCB3D=,Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoice|PARTCHOICETYPE=MANUAL|SUPPLIERSOURCE= |MANUFACTURER=FTDI|MANUFACTURERPARTNO=FT232BL-REEL|SUPPLIER=Digi-Key|SUPPLIERPARTNO=768-1009-1-ND|PROVIDERNAME= |PROVIDERGUID= |DESCRIPTION= |RANK=3|AVAILABLEQUANTITY=12201|BESTUNITPRICE=0|CURRENCY=USD|PRODUCTPHOTOURL= |LASTUPDATED= |PRICECOUNT=6|P1=5.75|Q1=1|P2=4.95|Q2=10|P3=4.6|Q3=50|P4=4.25|Q4=100|P5=3.95|Q5=250|P6=3.8625|Q6=500
+|RECORD=Solution|MANUFACTURER=FTDI|MANUFACTURERPARTNO=FT232BL-REEL|RANK=5
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Maxim.SchLib\MAX1674/5|DESIGNITEMID=MAX1674/5|ITEMSOURCE=Maxim.SchLib|STATUS=Unknown|DESCRIPTION=High-Efficiency, Low-Supply-Current,
+Compact, Step-Up DC-DC Converters|USERCOMMENTS=MAX1674/5|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH="High-Efficiency, Low-Supply-Current,
+Compact, Step-Up DC-DC Converters",MAX1674/5|COMPONENTPARAMETERS=Comment=MAX1674/5,"Component Kind=Standard",ComponentLink1Description=Datasheet,ComponentLink1URL=https://datasheets.maximintegrated.com/en/ds/MAX1674-MAX1676.pdf,"Description=High-Efficiency, Low-Supply-Current,
+Compact, Step-Up DC-DC Converters",Footprint=,"Ibis Model=","Library Name=Maxim.SchLib","Library Reference=MAX1674/5",PCB3D=,Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=GasSensors.SchLib\SEN-09404|DESIGNITEMID=SEN-09404|ITEMSOURCE=GasSensors.SchLib|STATUS=Unknown|DESCRIPTION=Sensitive material of MQ-4 gas sensor is SnO2, which
+with lower conductivity in clean air. When the target
+flammable gas exist, the sensor’s conductivity gets
+higher along with the gas concentration rising. Users
+can convert the change of conductivity to correspond
+output signal of gas concentration through a simple
+circuit.
+MQ-4 gas sensor has high sensitivity to methane, also
+has anti-interference to alcohol and other gases.|USERCOMMENTS=SEN-09404|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=SEN-09404,"Sensitive material of MQ-4 gas sensor is SnO2, which
+with lower conductivity in clean air. When the target
+flammable gas exist, the sensor’s conductivity gets
+higher along with the gas concentration rising. Users
+can convert the change of conductivity to correspond
+output signal of gas concentration through a simple
+circuit.
+MQ-4 gas sensor has high sensitivity to methane, also
+has anti-interference to alcohol and other gases."|COMPONENTPARAMETERS=Comment=SEN-09404,"Component Kind=Standard",ComponentLink1Description=Datasheet,ComponentLink1URL=https://cdn.sparkfun.com/datasheets/Sensors/Biometric/MQ-4%20Ver1.3%20-%20Manual.pdf,"Description=Sensitive material of MQ-4 gas sensor is SnO2, which
+with lower conductivity in clean air. When the target
+flammable gas exist, the sensor’s conductivity gets
+higher along with the gas concentration rising. Users
+can convert the change of conductivity to correspond
+output signal of gas concentration through a simple
+circuit.
+MQ-4 gas sensor has high sensitivity to methane, also
+has anti-interference to alcohol and other gases.",Footprint=,"Ibis Model=","Library Name=GasSensors.SchLib","Library Reference=SEN-09404",PCB3D=,Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=CCS811.SchLib\CCS811|DESIGNITEMID=CCS811|ITEMSOURCE=CCS811.SchLib|STATUS=Unknown|DESCRIPTION=The CCS811 is an ultra-low power digital gas sensor solution
+which integrates a metal oxide (MOX) gas sensor to detect a
+wide range of Volatile Organic Compounds (VOCs) for indoor
+air quality monitoring with a microcontroller unit (MCU), which
+includes an Analog-to-Digital converter (ADC), and an I²C
+interface.|USERCOMMENTS=CCS811|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=CCS811,"The CCS811 is an ultra-low power digital gas sensor solution
+which integrates a metal oxide (MOX) gas sensor to detect a
+wide range of Volatile Organic Compounds (VOCs) for indoor
+air quality monitoring with a microcontroller unit (MCU), which
+includes an Analog-to-Digital converter (ADC), and an I²C
+interface."|COMPONENTPARAMETERS=Comment=CCS811,"Component Kind=Standard",ComponentLink1Description=Datasheet,ComponentLink1URL=https://ams.com/documents/20143/36005/CCS811_DS000459_6-00.pdf/c7091525-c7e5-37ac-eedb-b6c6828b0dcf,"Description=The CCS811 is an ultra-low power digital gas sensor solution
+which integrates a metal oxide (MOX) gas sensor to detect a
+wide range of Volatile Organic Compounds (VOCs) for indoor
+air quality monitoring with a microcontroller unit (MCU), which
+includes an Analog-to-Digital converter (ADC), and an I²C
+interface.",Footprint=,"Ibis Model=","Library Name=CCS811.SchLib","Library Reference=CCS811",PCB3D=,Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Diodes.SchLib\TL072|DESIGNITEMID=TL072|ITEMSOURCE=Diodes.SchLib|STATUS=Unknown|DESCRIPTION=LOW NOISE JFET INPUT OPERATIONAL
+AMPLIFIERS|USERCOMMENTS=TL072|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH="LOW NOISE JFET INPUT OPERATIONAL
+AMPLIFIERS",TL072|COMPONENTPARAMETERS=Comment=TL072,"Component Kind=Standard",ComponentLink1Description=Datasheet,ComponentLink1URL=http://www.farnell.com/datasheets/2100162.pdf?_ga=2.131346700.2091339076.1550949916-1549779019.1547751625,"Description=LOW NOISE JFET INPUT OPERATIONAL
+AMPLIFIERS",Footprint=,"Ibis Model=","Library Name=Diodes.SchLib","Library Reference=TL072",PCB3D=,Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Sensirion.SchLib\SHTC3|DESIGNITEMID=SHTC3|ITEMSOURCE=Sensirion.SchLib|STATUS=Unknown|DESCRIPTION=Humidity and Temperature Sensor IC: - Ultra-low power consumption
+- Full battery supply voltage range (1.62 - 3.6 V)
+- Small DFN package: 2 × 2 × 0.75 mm3
+- Typical accuracy: ±2 %RH and ±0.2 °C
+- Fully calibrated and reflow solderable
+- Power-up and measurement within 1 ms|USERCOMMENTS=SHTC3|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH="Humidity and Temperature Sensor IC: - Ultra-low power consumption
+- Full battery supply voltage range (1.62 - 3.6 V)
+- Small DFN package: 2 × 2 × 0.75 mm3
+- Typical accuracy: ±2 %RH and ±0.2 °C
+- Fully calibrated and reflow solderable
+- Power-up and measurement within 1 ms",SHTC3|COMPONENTPARAMETERS=Comment=SHTC3,"Component Kind=Standard",ComponentLink1Description=datasheet,ComponentLink1URL=https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/0_Datasheets/Humidity/Sensirion_Humidity_Sensors_SHTC3_Datasheet.pdf,"Description=Humidity and Temperature Sensor IC: - Ultra-low power consumption
+- Full battery supply voltage range (1.62 - 3.6 V)
+- Small DFN package: 2 × 2 × 0.75 mm3
+- Typical accuracy: ±2 %RH and ±0.2 °C
+- Fully calibrated and reflow solderable
+- Power-up and measurement within 1 ms",Footprint=,"Ibis Model=","Library Name=Sensirion.SchLib","Library Reference=SHTC3",PCB3D=,Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Miscellaneous Devices.IntLib\XTAL|DESIGNITEMID=XTAL|ITEMSOURCE=Miscellaneous Devices.IntLib|STATUS=Unknown|DESCRIPTION=Crystal Oscillator|USERCOMMENTS=XTAL|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH="Crystal Oscillator",XTAL|COMPONENTPARAMETERS=Comment=XTAL,"Component Kind=Standard","Description=Crystal Oscillator",Footprint=R38,"Ibis Model=",LatestRevisionDate=17-Jul-2002,"LatestRevisionNote=Re-released for DXP Platform.","Library Name=Miscellaneous Devices.IntLib","Library Reference=XTAL","PackageDescription=Crystal, Thru-Hole; 2 Leads; Body 3.1 x 8.2 mm (Dia.xH)",PackageReference=R38,PCB3D=,Published=8-Jun-2000,"Publisher=Altium Limited",Simulation=XTAL|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Discreate.SchLib\XTAL_4p|DESIGNITEMID=XTAL_4p|ITEMSOURCE=Discreate.SchLib|STATUS=Unknown|DESCRIPTION=MHz Range Crystal Unit Miniature Size Low Profile SMD|USERCOMMENTS=XTAL_4p|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH="MHz Range Crystal Unit Miniature Size Low Profile SMD",XTAL_4p|COMPONENTPARAMETERS=Comment=XTAL_4p,"Component Kind=Standard","Description=MHz Range Crystal Unit Miniature Size Low Profile SMD",Footprint=,"Ibis Model=","Library Name=Discreate.SchLib","Library Reference=XTAL_4p",PCB3D=,Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Miscellaneous Connectors.IntLib\Header 2|DESIGNITEMID=Header 2|ITEMSOURCE=Miscellaneous Connectors.IntLib|STATUS=Unknown|DESCRIPTION=Header, 2-Pin|USERCOMMENTS=Ext_Sup|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=Ext_Sup,"Header, 2-Pin"|COMPONENTPARAMETERS=Comment=Ext_Sup,"Component Kind=Standard","Description=Header, 2-Pin",Footprint=HDR1X2,"Ibis Model=",LatestRevisionDate=17-Jul-2002,"LatestRevisionNote=Re-released for DXP Platform.","Library Name=Miscellaneous Connectors.IntLib","Library Reference=Header 2",PCB3D=,"Publisher=Altium Limited",Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Miscellaneous Connectors.IntLib\Header 2|DESIGNITEMID=Header 2|ITEMSOURCE=Miscellaneous Connectors.IntLib|STATUS=Unknown|DESCRIPTION=Header, 2-Pin|USERCOMMENTS=Battery|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=Battery,"Header, 2-Pin"|COMPONENTPARAMETERS=Comment=Battery,"Component Kind=Standard","Description=Header, 2-Pin",Footprint=HDR1X2,"Ibis Model=",LatestRevisionDate=17-Jul-2002,"LatestRevisionNote=Re-released for DXP Platform.","Library Name=Miscellaneous Connectors.IntLib","Library Reference=Header 2",PCB3D=,"Publisher=Altium Limited",Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Miscellaneous Devices.IntLib\SW DIP-2|DESIGNITEMID=SW DIP-2|ITEMSOURCE=Miscellaneous Devices.IntLib|STATUS=Unknown|DESCRIPTION=DIP Switch, 2 Position, SPST|USERCOMMENTS=prwSelector|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH="DIP Switch, 2 Position, SPST",prwSelector|COMPONENTPARAMETERS=Comment=prwSelector,"Component Kind=Standard","Description=DIP Switch, 2 Position, SPST",Footprint=,"Ibis Model=",LatestRevisionDate=17-Jul-2002,"LatestRevisionNote=Re-released for DXP Platform.","Library Name=Miscellaneous Devices.IntLib","Library Reference=SW DIP-2",PackageReference=DIP-4,PCB3D=,Published=24-Mar-1999,"Publisher=Altium Limited",Simulation=dpsw2,"Supplier 1=Digi-Key","Supplier Part Number 1=CT2192MST-ND"|CUSTOMPARAMETERS=
+|RECORD=PartChoice|PARTCHOICETYPE=AUTO_SCHLINKS|SUPPLIERSOURCE=Ciiva|MANUFACTURER=CTS|MANUFACTURERPARTNO=219-2MST|SUPPLIER=Digi-Key|SUPPLIERPARTNO=CT2192MST-ND|PROVIDERNAME=Ciiva|PROVIDERGUID=7A819525-F41E-4ADC-9CD0-9D9FA8B5FCE8|DESCRIPTION=Switch DIP ON OFF SPST 2 Raised Slide 0.1A 20VDC Gull Wing 2.54mm SMD Tube|RANK=3|AVAILABLEQUANTITY=42329|BESTUNITPRICE=0|CURRENCY=USD|PRODUCTPHOTOURL=https://ciiva.com/cloudsearch/fileimage/2200742?src-supplier=Arrow|LASTUPDATEDAT=43557.6102893519|LASTUPDATED=Updated yesterday|PRICECOUNT=9|P1=0.6|Q1=1|P2=0.587|Q2=10|P3=0.5532|Q3=25|P4=0.5192|Q4=85|P5=0.4967|Q5=170|P6=0.4741|Q6=255|P7=0.4289|Q7=510|P8=0.3951|Q8=1020|P9=0.3217|Q9=5015
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Maxim.SchLib\MAX1674/5|DESIGNITEMID=MAX1674/5|ITEMSOURCE=Maxim.SchLib|STATUS=Unknown|DESCRIPTION=High-Efficiency, Low-Supply-Current,
+Compact, Step-Up DC-DC Converters|USERCOMMENTS= MAX1674EUA+|NOTE=|LINENUMBER=|SELECTEDPARAMETERSHASH=" MAX1674EUA+","High-Efficiency, Low-Supply-Current,
+Compact, Step-Up DC-DC Converters"|COMPONENTPARAMETERS="Comment= MAX1674EUA+","Component Kind=Standard",ComponentLink1Description=Datasheet,ComponentLink1URL=https://datasheets.maximintegrated.com/en/ds/MAX1674-MAX1676.pdf,"Description=High-Efficiency, Low-Supply-Current,
+Compact, Step-Up DC-DC Converters",Footprint=,"Ibis Model=","Library Name=Maxim.SchLib","Library Reference=MAX1674/5",PCB3D=,Simulation=|CUSTOMPARAMETERS=
+|RECORD=PartChoice|PARTCHOICETYPE=MANUAL|SUPPLIERSOURCE= |MANUFACTURER=Maxim|MANUFACTURERPARTNO=MAX1674EUA+|SUPPLIER=Digi-Key|SUPPLIERPARTNO=MAX1674EUA+-ND|PROVIDERNAME= |PROVIDERGUID= |DESCRIPTION= |RANK=3|AVAILABLEQUANTITY=3373|BESTUNITPRICE=0|CURRENCY=USD|PRODUCTPHOTOURL= |LASTUPDATED= |PRICECOUNT=8|P1=4.32|Q1=1|P2=3.879|Q2=10|P3=3.6676|Q3=50|P4=3.1785|Q4=100|P5=3.0155|Q5=250|P6=2.7058|Q6=500|P7=2.282|Q7=1000|P8=2.1679|Q8=2500
+|RECORD=Solution|MANUFACTURER=Maxim|MANUFACTURERPARTNO=MAX1674EUA+|RANK=5
+|RECORD=PartChoiceGroups|GROUPBYFIELDCOUNT=0

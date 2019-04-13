@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=Dc1 Old Footprint=3.2X1.6X1.1 New Footprint=LED_0805
+Change Component Footprint: Designator=Dc2 Old Footprint=3.2X1.6X1.1 New Footprint=LED_0805
+Change Component Footprint: Designator=Dc3 Old Footprint=3.2X1.6X1.1 New Footprint=LED_0805
+Change Component Footprint: Designator=Dc4 Old Footprint=3.2X1.6X1.1 New Footprint=LED_0805
+Change Component Footprint: Designator=Dc5 Old Footprint=3.2X1.6X1.1 New Footprint=LED_0805
+Change Component Footprint: Designator=Cp1 Old Footprint=ABSM-1574 New Footprint=CAP_EL__TH_rad_r3_15h11_2
+Change Component Footprint: Designator=Cp4 Old Footprint=ABSM-1574 New Footprint=CAP_EL__TH_rad_r3_15h11_2
+Change Component Footprint: Designator=Cp7 Old Footprint=ABSM-1574 New Footprint=CAP_EL__TH_rad_r3_15h11_2
+Change Component Footprint: Designator=Yc1 Old Footprint=R38 New Footprint=XTAL_AB38T-32.768KHZ_TH_vertical
+Added Component: Designator=Yc3(XTAL_TH_2pad_HC49/US)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Crystal, Thru-Hole; 2 Leads; Body 3.1 x 8.2 mm (Dia.xH)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "R38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCc22_1 Pin=Yc3-1
+Added Pin To Net: NetName=NetCc21_2 Pin=Yc3-2
+Added Member To Class: ClassName=Controls Member=Component Yc3 ABL-6.000MHZ-B2

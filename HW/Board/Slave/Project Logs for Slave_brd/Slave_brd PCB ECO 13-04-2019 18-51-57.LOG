@@ -1,0 +1,132 @@
+Removed Pin From Net: NetName=GND Pin=Cc12-1
+Removed Pin From Net: NetName=GND Pin=Cc13-2
+Removed Pin From Net: NetName=GND Pin=Cs2-1
+Removed Pin From Net: NetName=VCC Pin=Cs2-2
+Removed Pin From Net: NetName=GND Pin=Qs1-3
+Removed Pin From Net: NetName=GND Pin=Rc9-1
+Removed Pin From Net: NetName=VCC Pin=Rc12-2
+Removed Pin From Net: NetName=VCC Pin=Rc13-2
+Removed Pin From Net: NetName=VCC Pin=Rc14-2
+Removed Pin From Net: NetName=VCC Pin=Rs1-2
+Removed Pin From Net: NetName=5V0 Pin=Rs2-2
+Removed Pin From Net: NetName=GND Pin=Rs3-1
+Removed Pin From Net: NetName=GND Pin=Rs5-2
+Removed Pin From Net: NetName=GND Pin=Rs7-1
+Removed Member From Class: ClassName=Controls Member=Ac1
+Removed Member From Class: ClassName=Sns Member=Cs2
+Removed Member From Class: ClassName=Sns Member=Qs1
+Removed Member From Class: ClassName=Controls Member=Rc9
+Removed Member From Class: ClassName=Controls Member=Rc12
+Removed Member From Class: ClassName=Controls Member=Rc13
+Removed Member From Class: ClassName=Controls Member=Rc14
+Removed Member From Class: ClassName=Sns Member=Rs1
+Removed Member From Class: ClassName=Sns Member=Rs2
+Removed Member From Class: ClassName=Sns Member=Rs3
+Removed Member From Class: ClassName=Sns Member=Rs4
+Removed Member From Class: ClassName=Sns Member=Rs5
+Removed Member From Class: ClassName=Sns Member=Rs6
+Removed Member From Class: ClassName=Sns Member=Rs7
+Change Component Footprint: Designator=Cc19 Old Footprint=ABSM-1574 New Footprint=CAP_EL__TH_rad_r3_15h11_2
+Change Component Footprint: Designator=Rc15 Old Footprint=AXIAL-0.3 New Footprint=r0603
+Change Component Footprint: Designator=Rc16 Old Footprint=AXIAL-0.3 New Footprint=r0603
+Change Component Footprint: Designator=Rc17 Old Footprint=AXIAL-0.3 New Footprint=r0603
+Added Component: Designator=Jc3(ANT_MM5829-2700RJ4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "490-5894-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.it/product-detail/en/murata-electronics-north-america/MM5829-2700RJ4/490-5894-1-ND/3528184?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MM5829-2700RJ4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MM5829-2700RJ4/Murata%20Electronics%20North%20America/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Uc2(LQFP-32)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1803231.pdf?_ga=2.42688038.2091339076.1550949916-1549779019.1547751625"; VariantName = "[No Variations]"
+Added Component: Designator=Up1(MSOP-8_TermalPad)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheets.maximintegrated.com/en/ds/MAX1674-MAX1676.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Up2(MSOP-8_TermalPad)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheets.maximintegrated.com/en/ds/MAX1674-MAX1676.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Us4(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/0_Datasheets/Humidity/Sensirion_Humidity_Sensors_SHTC3_Datasheet.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=Yc2(XTAL_7x5_4pads)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=Jc3-2
+Added Pin To Net: NetName=GND Pin=Jc3-3
+Added Pin To Net: NetName=GND Pin=Jc3-4
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=VCC Pin=P?-2
+Added Pin To Net: NetName=USB5V0 Pin=Uc2-3
+Added Pin To Net: NetName=NetRc5_1 Pin=Uc2-4
+Added Pin To Net: NetName=NetRc7_1 Pin=Uc2-5
+Added Pin To Net: NetName=FT3V3 Pin=Uc2-6
+Added Pin To Net: NetName=NetRc4_2 Pin=Uc2-7
+Added Pin To Net: NetName=NetRc3_2 Pin=Uc2-8
+Added Pin To Net: NetName=GND Pin=Uc2-9
+Added Pin To Net: NetName=NetDc1_2 Pin=Uc2-11
+Added Pin To Net: NetName=NetDc2_2 Pin=Uc2-12
+Added Pin To Net: NetName=FT3V3 Pin=Uc2-13
+Added Pin To Net: NetName=FT3V3 Pin=Uc2-14
+Added Pin To Net: NetName=GND Pin=Uc2-17
+Added Pin To Net: NetName=NetUc1_16 Pin=Uc2-22
+Added Pin To Net: NetName=NetUc1_15 Pin=Uc2-23
+Added Pin To Net: NetName=NetUc1_12 Pin=Uc2-24
+Added Pin To Net: NetName=NetUc1_14 Pin=Uc2-25
+Added Pin To Net: NetName=USB5V0 Pin=Uc2-26
+Added Pin To Net: NetName=NetCc22_1 Pin=Uc2-27
+Added Pin To Net: NetName=NetCc21_2 Pin=Uc2-28
+Added Pin To Net: NetName=GND Pin=Uc2-29
+Added Pin To Net: NetName=NetCc20_1 Pin=Uc2-30
+Added Pin To Net: NetName=VCC Pin=Up1-1
+Added Pin To Net: NetName=NetRp1_1 Pin=Up1-2
+Added Pin To Net: NetName=NetRp3_1 Pin=Up1-3
+Added Pin To Net: NetName=NetCp2_1 Pin=Up1-4
+Added Pin To Net: NetName=VCC Pin=Up1-5
+Added Pin To Net: NetName=GND Pin=Up1-6
+Added Pin To Net: NetName=NetLp1_1 Pin=Up1-7
+Added Pin To Net: NetName=VCC Pin=Up1-8
+Added Pin To Net: NetName=GND Pin=Up2-1
+Added Pin To Net: NetName=NetRp6_1 Pin=Up2-2
+Added Pin To Net: NetName=NetRp9_1 Pin=Up2-3
+Added Pin To Net: NetName=NetCp5_1 Pin=Up2-4
+Added Pin To Net: NetName=NetQp1_1 Pin=Up2-5
+Added Pin To Net: NetName=GND Pin=Up2-6
+Added Pin To Net: NetName=NetLp2_1 Pin=Up2-7
+Added Pin To Net: NetName=5V0 Pin=Up2-8
+Added Pin To Net: NetName=VCC Pin=Us4-1
+Added Pin To Net: NetName=GND Pin=Us4-4
+Added Pin To Net: NetName=NetCc12_1 Pin=Cc12-1
+Added Net: Name=NetCc12_1
+Added Pin To Net: NetName=NetCc13_2 Pin=Cc13-2
+Added Net: Name=NetCc13_2
+Added Pin To Net: NetName=NetCc18_1 Pin=Cc18-1
+Added Pin To Net: NetName=NetCc18_1 Pin=Jc3-1
+Added Net: Name=NetCc18_1
+Added Pin To Net: NetName=NetP?_3 Pin=P?-3
+Added Pin To Net: NetName=NetP?_3 Pin=Rc11-1
+Added Pin To Net: NetName=NetP?_3 Pin=Uc1-6
+Added Pin To Net: NetName=NetP?_3 Pin=Us4-3
+Added Net: Name=NetP?_3
+Added Pin To Net: NetName=NetP?_4 Pin=P?-4
+Added Pin To Net: NetName=NetP?_4 Pin=Rc10-1
+Added Pin To Net: NetName=NetP?_4 Pin=Uc1-5
+Added Pin To Net: NetName=NetP?_4 Pin=Us4-2
+Added Net: Name=NetP?_4
+Added Member To Class: ClassName=Controls Member=Component Jc3 MM5829-2700RJ4
+Added Member To Class: ClassName=Sns Member=Component P? 101020088
+Added Member To Class: ClassName=Controls Member=Component Uc2 FT232BL-REEL
+Added Member To Class: ClassName=Pwr Member=Component Up1 MAX1674EUA+
+Added Member To Class: ClassName=Pwr Member=Component Up2 MAX1674EUA+
+Added Member To Class: ClassName=Sns Member=Component Us4 SPX-15074
+Added Member To Class: ClassName=Controls Member=Component Yc2 ECS-240-18-20BQ-DS

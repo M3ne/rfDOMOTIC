@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetCc22_1 Pin=Yc3-1
+Removed Pin From Net: NetName=NetCc21_2 Pin=Yc3-2
+Removed Member From Class: ClassName=Controls Member=Yc3
+Added Component: Designator=Yc4(XTAL_TH_2pad_HC49/US)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Crystal, Thru-Hole; 2 Leads; Body 3.1 x 8.2 mm (Dia.xH)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "R38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Cc12-1
+Added Pin To Net: NetName=GND Pin=Cc13-2
+Added Pin To Net: NetName=NetCc12_2 Pin=Yc2-1
+Added Pin To Net: NetName=NetCc13_1 Pin=Yc2-3
+Added Pin To Net: NetName=NetCc22_1 Pin=Yc4-1
+Added Pin To Net: NetName=NetCc21_2 Pin=Yc4-2
+Added Member To Class: ClassName=Controls Member=Component Yc4 ABL-6.000MHZ-B2
