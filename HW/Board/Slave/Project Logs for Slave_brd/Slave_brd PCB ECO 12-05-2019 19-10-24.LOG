@@ -1,0 +1,6 @@
+Added Component: Designator=Ac1(2.4-GHz Inverted F Antenna)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetAc1_1 Pin=Ac1-1
+Added Pin To Net: NetName=GND Pin=Ac1-2
+Added Pin To Net: NetName=GND Pin=Ac1-3
+Added Member To Class: ClassName=Controls Member=Component Ac1 Generic antenna 3 poles

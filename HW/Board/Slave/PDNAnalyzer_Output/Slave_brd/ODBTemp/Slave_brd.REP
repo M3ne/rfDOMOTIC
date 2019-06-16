@@ -1,0 +1,74 @@
+*************************************************************
+FileName = Slave_brd.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\matrix\matrix
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\profile
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\plaintop\features
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\plaintop\attrlist
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\plainbottom\features
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\plainbottom\attrlist
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\top_layer\features
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\drill\features
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\drill\tools
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\rout\features
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\layers\rout\tools
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\steps\pcb\eda\data
+
+Generated File : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\PDNAnalyzer_Output\Slave_brd\ODBTemp\odb\symbols\oblong_th91.4961x65.9055x45x4x19.685_180\features
+

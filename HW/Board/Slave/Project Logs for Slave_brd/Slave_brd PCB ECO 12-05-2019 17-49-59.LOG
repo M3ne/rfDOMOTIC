@@ -1,0 +1,14 @@
+Added Component: Designator=SWc1(SWITCH TACTILE SPST-NO)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SWc2(SWITCH TACTILE SPST-NO)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=SWc1-1
+Added Pin To Net: NetName=VCC Pin=SWc1-2
+Added Pin To Net: NetName=NetRc14_2 Pin=SWc1-3
+Added Pin To Net: NetName=NetRc14_2 Pin=SWc1-4
+Added Pin To Net: NetName=VCC Pin=SWc2-1
+Added Pin To Net: NetName=VCC Pin=SWc2-2
+Added Pin To Net: NetName=NetRc15_2 Pin=SWc2-3
+Added Pin To Net: NetName=NetRc15_2 Pin=SWc2-4
+Added Member To Class: ClassName=Controls Member=Component SWc1 SW SPST
+Added Member To Class: ClassName=Controls Member=Component SWc2 SW SPST

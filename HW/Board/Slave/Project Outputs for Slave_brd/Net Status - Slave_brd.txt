@@ -1,0 +1,88 @@
+Net Status Report
+Filename     : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\Slave_brd.PcbDoc
+Date         : 11/06/2019
+Time         : 19:57:19
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    5V0, Signal Layers Only, 92.9644mm
+    FT3V3, Signal Layers Only, 10.6547mm
+    GND, Signal Layers Only, 140.9134mm
+    NetAc1_1, Signal Layers Only, 4.8355mm
+    NetCRc1_1, Signal Layers Only, 14.4142mm
+    NetCRc1_2, Signal Layers Only, 15.7228mm
+    NetCRc1_4, Signal Layers Only, 18.996mm
+    NetCRc1_5, Signal Layers Only, 25.7739mm
+    NetCc10_1, Signal Layers Only, 9.9068mm
+    NetCc11_1, Signal Layers Only, 7.6565mm
+    NetCc14_1, Signal Layers Only, 1.288mm
+    NetCc16_2, Signal Layers Only, 6.1702mm
+    NetCc17_2, Signal Layers Only, 3.701mm
+    NetCc18_1, Signal Layers Only, 3.0313mm
+    NetCc18_2, Signal Layers Only, 1.415mm
+    NetCc20_1, Signal Layers Only, 7.484mm
+    NetCc21_2, Signal Layers Only, 6.8441mm
+    NetCc22_1, Signal Layers Only, 8.1352mm
+    NetCc25_1, Signal Layers Only, 1.16mm
+    NetCc8_2, Signal Layers Only, 38.7103mm
+    NetCc9_2, Signal Layers Only, 11.61mm
+    NetCp1_1, Signal Layers Only, 28.7162mm
+    NetCp2_1, Signal Layers Only, 2.6986mm
+    NetCp6_1, Signal Layers Only, 4.9053mm
+    NetCp6_2, Signal Layers Only, 21.7573mm
+    NetCs2_2, Signal Layers Only, 24.4906mm
+    NetDa1_A, Signal Layers Only, 9.6437mm
+    NetDc1_1, Signal Layers Only, 8.1173mm
+    NetDc1_2, Signal Layers Only, 7.7711mm
+    NetDc2_2, Signal Layers Only, 9.9133mm
+    NetDc3_1, Signal Layers Only, 42.4822mm
+    NetDc3_2, Signal Layers Only, 5.0804mm
+    NetDc4_1, Signal Layers Only, 34.3293mm
+    NetDc4_2, Signal Layers Only, 4.3711mm
+    NetDc5_1, Signal Layers Only, 30.4213mm
+    NetDc5_2, Signal Layers Only, 4.3466mm
+    NetFBc2_1, Signal Layers Only, 8.3154mm
+    NetJa1_1, Signal Layers Only, 23.0773mm
+    NetJc2_2, Signal Layers Only, 2.8013mm
+    NetJc2_3, Signal Layers Only, 7.0073mm
+    NetJs1_4, Signal Layers Only, 72.8266mm
+    NetJs1_5, Signal Layers Only, 65.5558mm
+    NetJs2_1, Signal Layers Only, 4.454mm
+    NetJs2_2, Signal Layers Only, 2.1542mm
+    NetJs2_3, Signal Layers Only, 6.5088mm
+    NetJs2_4, Signal Layers Only, 11.7301mm
+    NetLc1_1, Signal Layers Only, 16.6156mm
+    NetLp1_1, Signal Layers Only, 15.7203mm
+    NetQa1_2, Signal Layers Only, 12.0309mm
+    NetRa1_2, Signal Layers Only, 60.6345mm
+    NetRa3_1, Signal Layers Only, 46.3692mm
+    NetRa4_1, Signal Layers Only, 2.6234mm
+    NetRa5_1, Signal Layers Only, 2.5844mm
+    NetRc14_2, Signal Layers Only, 26.5446mm
+    NetRc15_2, Signal Layers Only, 23.2711mm
+    NetRc16_1, Signal Layers Only, 43.1012mm
+    NetRc17_1, Signal Layers Only, 44.5075mm
+    NetRc3_2, Signal Layers Only, 17.2964mm
+    NetRc4_2, Signal Layers Only, 18.0113mm
+    NetRc5_1, Signal Layers Only, 8.1193mm
+    NetRc7_1, Signal Layers Only, 3.3681mm
+    NetRp1_1, Signal Layers Only, 9.9752mm
+    NetRp3_1, Signal Layers Only, 40.5429mm
+    NetRp4_1, Signal Layers Only, 5.161mm
+    NetRs1_2, Signal Layers Only, 24.4553mm
+    NetRs4_1, Signal Layers Only, 3.902mm
+    NetRs4_2, Signal Layers Only, 53.1541mm
+    NetRs6_1, Signal Layers Only, 5.7143mm
+    NetRs6_2, Signal Layers Only, 46.8558mm
+    NetUc1_28, Signal Layers Only, 16.0765mm
+    NetUc1_29, Signal Layers Only, 17.0457mm
+    NetUc1_46, Signal Layers Only, 12.0626mm
+    NetUc1_47, Signal Layers Only, 7.7634mm
+    RF_N, Signal Layers Only, 7.6218mm
+    RF_P, Signal Layers Only, 7.6635mm
+    USB5V0, Signal Layers Only, 27.36mm
+    VCC, Signal Layers Only, 40.0743mm
+    VDDR, Signal Layers Only, 16.7948mm
+    VDDS, Signal Layers Only, 37.2928mm
+    Vline, Signal Layers Only, 62.8007mm
+count : 80

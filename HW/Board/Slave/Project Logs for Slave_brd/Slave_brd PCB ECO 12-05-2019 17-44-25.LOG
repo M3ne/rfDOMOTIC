@@ -1,0 +1,19 @@
+Added Pin To Net: NetName=GND Pin=CRc1-3
+Added Pin To Net: NetName=NetCc8_2 Pin=CRc1-6
+Added Pin To Net: NetName=VCC Pin=CRc1-7
+Added Pin To Net: NetName=NetCRc1_1 Pin=CRc1-1
+Added Pin To Net: NetName=NetCRc1_1 Pin=Jc1-2
+Added Pin To Net: NetName=NetCRc1_1 Pin=Uc1-24
+Added Net: Name=NetCRc1_1
+Added Pin To Net: NetName=NetCRc1_2 Pin=CRc1-2
+Added Pin To Net: NetName=NetCRc1_2 Pin=Jc1-4
+Added Pin To Net: NetName=NetCRc1_2 Pin=Uc1-25
+Added Net: Name=NetCRc1_2
+Added Pin To Net: NetName=NetCRc1_4 Pin=CRc1-4
+Added Pin To Net: NetName=NetCRc1_4 Pin=Jc1-6
+Added Pin To Net: NetName=NetCRc1_4 Pin=Uc1-26
+Added Net: Name=NetCRc1_4
+Added Pin To Net: NetName=NetCRc1_5 Pin=CRc1-5
+Added Pin To Net: NetName=NetCRc1_5 Pin=Jc1-8
+Added Pin To Net: NetName=NetCRc1_5 Pin=Uc1-27
+Added Net: Name=NetCRc1_5

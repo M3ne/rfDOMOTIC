@@ -1,0 +1,5 @@
+Move Component Origin to Grid
+Filename     : C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\Slave_brd.PcbDoc
+Date         : 24/05/2019
+Time         : 18:50:02
+Time Elapsed : 00:00:00

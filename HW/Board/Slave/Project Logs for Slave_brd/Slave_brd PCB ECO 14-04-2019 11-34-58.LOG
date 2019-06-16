@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=VDDR Pin=Uc1-45
+Added Pin To Net: NetName=VDDR Pin=Uc1-48
+Change Net Name : Old Net Name=VDDR New Net Name=VCCR
