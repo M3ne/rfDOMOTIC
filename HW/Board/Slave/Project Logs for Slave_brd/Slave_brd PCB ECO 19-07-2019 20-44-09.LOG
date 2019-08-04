@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=DIO_0 Pin=Jc2-2
+Removed Pin From Net: NetName=DIO_1 Pin=Jc2-4
+Removed Pin From Net: NetName=DIO_2 Pin=Jc2-6
+Removed Pin From Net: NetName=DIO_3 Pin=Jc2-8
+Removed Pin From Net: NetName=DIO_4 Pin=Jc2-10
+Added Pin To Net: NetName=DIO_4 Pin=Jc2-2
+Added Pin To Net: NetName=DIO_2 Pin=Jc2-4
+Added Pin To Net: NetName=DIO_0 Pin=Jc2-6
+Added Pin To Net: NetName=DIO_1 Pin=Jc2-8
+Added Pin To Net: NetName=DIO_3 Pin=Jc2-10

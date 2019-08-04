@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=NetCc9_2 Pin=Uc1-3
+Removed Pin From Net: NetName=NetDc5_1 Pin=Uc1-5
+Removed Pin From Net: NetName=NetDc4_1 Pin=Uc1-6
+Removed Pin From Net: NetName=NetJs1_4 Pin=Uc1-9
+Removed Pin From Net: NetName=NetJs1_5 Pin=Uc1-10
+Removed Pin From Net: NetName=NetDc3_1 Pin=Uc1-11
+Removed Pin From Net: NetName=VDDS Pin=Uc1-13
+Removed Pin From Net: NetName=NetRp3_1 Pin=Uc1-18
+Removed Pin From Net: NetName=NetRc14_2 Pin=Uc1-19
+Removed Pin From Net: NetName=NetRc15_2 Pin=Uc1-20
+Removed Pin From Net: NetName=NetRa1_2 Pin=Uc1-21
+Removed Pin From Net: NetName=VDDS Pin=Uc1-22
+Removed Pin From Net: NetName=NetCc11_1 Pin=Uc1-23
+Removed Pin From Net: NetName=NetCRc1_1 Pin=Uc1-24
+Removed Pin From Net: NetName=NetCRc1_2 Pin=Uc1-25
+Removed Pin From Net: NetName=NetCRc1_4 Pin=Uc1-26
+Removed Pin From Net: NetName=NetCRc1_5 Pin=Uc1-27
+Removed Pin From Net: NetName=NetRs6_2 Pin=Uc1-32
+Removed Pin From Net: NetName=NetLc1_1 Pin=Uc1-33
+Removed Pin From Net: NetName=VDDS Pin=Uc1-34
+Removed Pin From Net: NetName=NetCc8_2 Pin=Uc1-35
+Removed Pin From Net: NetName=NetRs4_2 Pin=Uc1-36
+Removed Pin From Net: NetName=NetRa3_1 Pin=Uc1-37
+Removed Pin From Net: NetName=VDDS Pin=Uc1-44
+Removed Pin From Net: NetName=VDDR Pin=Uc1-45
+Removed Pin From Net: NetName=VDDR Pin=Uc1-48
+Removed Pin From Net: NetName=GND Pin=Uc1-49
+Change Component Footprint: Designator=Uc1 Old Footprint=VQFN-48(RGZ) New Footprint=VQFN-32(RHB-vias)
+Change Component Comment : Designator=Uc1 Old Comment=CC2650F128RGZ New Comment=CC2650F128RHBR
+Change component parameters: Designator = "Uc1"; Footprint = "VQFN-32(RHB-vias)"; UniqueID = "\ESLKIAXD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CC2650F128RHBR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "VQFN-32 Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CC2650F128RHBR/Texas%20Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCc9_2 Pin=Uc1-5
+Added Pin To Net: NetName=NetRs4_2 Pin=Uc1-6
+Added Pin To Net: NetName=NetRs6_2 Pin=Uc1-7
+Added Pin To Net: NetName=NetRa3_1 Pin=Uc1-8
+Added Pin To Net: NetName=NetRp3_1 Pin=Uc1-9
+Added Pin To Net: NetName=NetRc14_2 Pin=Uc1-10
+Added Pin To Net: NetName=VDDS Pin=Uc1-11
+Added Pin To Net: NetName=NetCc11_1 Pin=Uc1-12
+Added Pin To Net: NetName=NetCRc1_1 Pin=Uc1-13
+Added Pin To Net: NetName=NetCRc1_2 Pin=Uc1-14
+Added Pin To Net: NetName=NetRc15_2 Pin=Uc1-15
+Added Pin To Net: NetName=NetRa1_2 Pin=Uc1-16
+Added Pin To Net: NetName=NetLc1_1 Pin=Uc1-17
+Added Pin To Net: NetName=VDDS Pin=Uc1-18
+Added Pin To Net: NetName=NetCc8_2 Pin=Uc1-19
+Added Pin To Net: NetName=NetJs1_4 Pin=Uc1-20
+Added Pin To Net: NetName=NetJs1_5 Pin=Uc1-21
+Added Pin To Net: NetName=NetDc3_1 Pin=Uc1-22
+Added Pin To Net: NetName=NetDc4_1 Pin=Uc1-23
+Added Pin To Net: NetName=NetDc5_1 Pin=Uc1-24
+Added Pin To Net: NetName=NetCRc1_4 Pin=Uc1-25
+Added Pin To Net: NetName=NetCRc1_5 Pin=Uc1-26
+Added Pin To Net: NetName=VDDS Pin=Uc1-28
+Added Pin To Net: NetName=VDDR Pin=Uc1-29
+Added Pin To Net: NetName=VDDR Pin=Uc1-32
+Added Pin To Net: NetName=GND Pin=Uc1-33
+Added Pin To Net: NetName=NetUc1_30 Pin=Uc1-30
+Added Pin To Net: NetName=NetUc1_30 Pin=Yc2-3
+Added Net: Name=NetUc1_30
+Added Pin To Net: NetName=NetUc1_31 Pin=Uc1-31
+Added Pin To Net: NetName=NetUc1_31 Pin=Yc2-1
+Added Net: Name=NetUc1_31

@@ -1,0 +1,94 @@
+﻿Field=#~Integer~#~50|Field=Line #~String~Line #~52|Field=Name~String~Name~122|Field=Description~String~Description~80|Field=Designator~String~Designator~78|Field=Value~String~Value~63|Field=Manufacturer 1~String~Manufacturer 1~100|Field=Manufacturer PartNo 1~String~Manufacturer PartNo 1~138|Field=Manufacturer Lifecycle 1~String~Manufacturer Lifecycle 1~145|Field=Supplier 1~String~Supplier 1~73|Field=Supplier PartNo 1~String~Supplier PartNo 1~111|Field=Actual Price 1~Float~Actual Price 1~89|Field=Supplier Subtotal 1~Float~Supplier Subtotal 1~120|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Slave_brd.PrjPCB|ReportField=ProjectFullPath~C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\Slave_brd.PrjPCB|ReportField=Title~Bill of Materials For BOM Document [Slave_brd.BomDoc]|ReportField=ReportTime~21:00:42|ReportField=ReportDate~01/07/2019|ReportField=ReportDateTime~01/07/2019 21:00:42|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~93|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~01/07/2019|ReportField=CurrentTime~20:27:10|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\Actuation.SchDoc|ReportField=DocumentName~Actuation.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~21/06/2019|ReportField=Organization~|ReportField=ProjectName~Slave_brd.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~4|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Slave_brd.BomDoc|ReportField=DataSourceFullPath~C:\Users\Carlo\Documents\git\rfDOMOTIC\HW\Board\Slave\Slave_brd.BomDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1||Battery|Header, 2-Pin|Jp1||{URL}{URL.TEXT}{URL.TIP}Component||||||
+2||Cap|Capacitor|Cc25|DNP|{URL}{URL.TEXT}{URL.TIP}Component||||||
+3||Cap|Capacitor|Cc26|DNP|{URL}{URL.TEXT}{URL.TIP}Component||||||
+4||Cap|Capacitor|Cc27|DNP|{URL}{URL.TEXT}{URL.TIP}Component||||||
+5||CC2650F128RHBR|MCU 32-bit CC26xx ARM Cortex M3 RISC 128KB Flash 2.5V/3.3V Medical 32-Pin VQFN EP T/R|Uc1||{URL}{URL.TEXT}{URL.TIP}Component||||||
+6||LinePWR|Header, 3-Pin|Jp2||{URL}{URL.TEXT}{URL.TIP}Component||||||
+7||32.768 kHz|Crystal Oscillator|Yc1||{URL}{URL.TEXT}Abracon{URL.TIP}Component|AB38T-32.768KHZ|Volume Production||||
+8||3709|Header, 5-Pin|Js1||{URL}{URL.TEXT}Adafruit%20Industries{URL.TIP}Component|3709|Unknown||||
+9||Res1|Resistor|Rc1|100K|{URL}{URL.TEXT}Bourns{URL.TIP}Component|CR0603-JW-104ELF|Volume Production||||
+10||Res1|Resistor|Rp2|100K|{URL}{URL.TEXT}Bourns{URL.TIP}Component|CR0603-JW-104ELF|Volume Production||||
+11||Res1|Resistor|Rp3|100K|{URL}{URL.TEXT}Bourns{URL.TIP}Component|CR0603-JW-104ELF|Volume Production||||
+12||SJ1-2503A||Js2||{URL}{URL.TEXT}CUI{URL.TIP}Component|SJ1-2503A|Volume Production||||
+13||ECS-240-18-20BQ-DS|MHz Range Crystal Unit Miniature Size Low Profile SMD|Yc2||{URL}{URL.TEXT}ECS%20International{URL.TIP}Component|ECS-240-18-20BQ-DS|Volume Production||||
+14||SW SPST||SWc1||{URL}{URL.TEXT}ITT%20C%26K{URL.TIP}Component|PTS645SM43SMTR92LFS|Volume Production||||
+15||SW SPST||SWc2||{URL}{URL.TEXT}ITT%20C%26K{URL.TIP}Component|PTS645SM43SMTR92LFS|Volume Production||||
+16||Inductor|Inductor|Lc4|2nH|{URL}{URL.TEXT}Johanson{URL.TIP}Component|L-14W2N0CV4E|Volume Production||||
+17||Inductor|Inductor|Lc5|2nH|{URL}{URL.TEXT}Johanson{URL.TIP}Component|L-14W2N0CV4E|Volume Production||||
+18||Cap|Capacitor|Cc10|12pF|{URL}{URL.TEXT}KEMET{URL.TIP}Component|C0603C120J5GACTU|Volume Production||||
+19||Cap|Capacitor|Cc18|12pF|{URL}{URL.TEXT}KEMET{URL.TIP}Component|C0603C120J5GACTU|Volume Production||||
+20||Cap|Capacitor|Cc9|12pF|{URL}{URL.TEXT}KEMET{URL.TIP}Component|C0603C120J5GACTU|Volume Production||||
+21||EC2-5NU|Electromechanical Relay DPDT 2A 5VDC 178Ohm Through Hole|RL1||{URL}{URL.TEXT}KEMET{URL.TIP}Component|EC2-5NU|Volume Production||||
+22||Cap|Capacitor|Cc14|6p8F|{URL}{URL.TEXT}Kyocera%20AVX{URL.TIP}Component|06035A6R8DAT2A|Volume Production||||
+23||Cap|Capacitor|Cc5|10uF|{URL}{URL.TEXT}Kyocera%20AVX{URL.TIP}Component|0603ZD106KAT2A|Unknown||||
+24||Cap|Capacitor|Cp1|10uF|{URL}{URL.TEXT}Kyocera%20AVX{URL.TIP}Component|0603ZD106KAT2A|Unknown||||
+25||Cap|Capacitor|Cp4|10uF|{URL}{URL.TEXT}Kyocera%20AVX{URL.TIP}Component|0603ZD106KAT2A|Unknown||||
+26||Cap|Capacitor|Cp5|10uF|{URL}{URL.TEXT}Kyocera%20AVX{URL.TIP}Component|0603ZD106KAT2A|Unknown||||
+27||Cap|Capacitor|Cp8|10uF|{URL}{URL.TEXT}Kyocera%20AVX{URL.TIP}Component|0603ZD106KAT2A|Unknown||||
+28||Cap|Capacitor|Cs2|10uF|{URL}{URL.TEXT}Kyocera%20AVX{URL.TIP}Component|0603ZD106KAT2A|Unknown||||
+29||MAX1674/5|High-Efficiency, Low-Supply-Current,Compact, Step-Up DC-DC Converters|Up1||{URL}{URL.TEXT}Maxim{URL.TIP}Component|MAX1674EUA+|Not Recommended for New Design||||
+30||BLM18HE152SN1|Fuse|FBc1||{URL}{URL.TEXT}Murata{URL.TIP}Component|BLM18HE152SN1D|Volume Production||||
+31||Inductor|Inductor|Lc2|2n4H|{URL}{URL.TEXT}Murata{URL.TIP}Component|LQW18AN2N4C80D|Not Recommended for New Design||||
+32||Inductor|Inductor|Lc3|2n4H|{URL}{URL.TEXT}Murata{URL.TIP}Component|LQW18AN2N4C80D|Not Recommended for New Design||||
+33||MM5829-2700RJ4|Conn Coaxial RCP 0Hz to 12GHz 50Ohm Solder ST SMD Gold|Jc3||{URL}{URL.TEXT}Murata{URL.TIP}Component|MM5829-2700RJ4|Volume Production||||
+34||SS24FL|Default Diode|Da1||{URL}{URL.TEXT}ON%20Semiconductor%20%2F%20Fairchild{URL.TIP}Component|SS24FL|Volume Production||||
+35||SS24FL|Default Diode|Dp1||{URL}{URL.TEXT}ON%20Semiconductor%20%2F%20Fairchild{URL.TIP}Component|SS24FL|Volume Production||||
+36||SS24FL|Default Diode|Dp2||{URL}{URL.TEXT}ON%20Semiconductor%20%2F%20Fairchild{URL.TIP}Component|SS24FL|Volume Production||||
+37||Cap|Capacitor|Cc1|100nF|{URL}{URL.TEXT}Sams{URL.TIP}Component|CL10B104KB8NNNC|Unknown||||
+38||Cap|Capacitor|Cc2|100nF|{URL}{URL.TEXT}Sams{URL.TIP}Component|CL10B104KB8NNNC|Unknown||||
+39||Cap|Capacitor|Cc3|100nF|{URL}{URL.TEXT}Sams{URL.TIP}Component|CL10B104KB8NNNC|Unknown||||
+40||Cap|Capacitor|Cc4|100nF|{URL}{URL.TEXT}Sams{URL.TIP}Component|CL10B104KB8NNNC|Unknown||||
+41||Cap|Capacitor|Cc6|100nF|{URL}{URL.TEXT}Sams{URL.TIP}Component|CL10B104KB8NNNC|Unknown||||
+42||Cap|Capacitor|Cc7|100nF|{URL}{URL.TEXT}Sams{URL.TIP}Component|CL10B104KB8NNNC|Unknown||||
+43||Cap|Capacitor|Cc8|100nF|{URL}{URL.TEXT}Sams{URL.TIP}Component|CL10B104KB8NNNC|Unknown||||
+44||Cap|Capacitor|Cp2|100nF|{URL}{URL.TEXT}Sams{URL.TIP}Component|CL10B104KB8NNNC|Unknown||||
+45||Cap|Capacitor|Cp3|100nF|{URL}{URL.TEXT}Sams{URL.TIP}Component|CL10B104KB8NNNC|Unknown||||
+46||Cap|Capacitor|Cp6|100nF|{URL}{URL.TEXT}Sams{URL.TIP}Component|CL10B104KB8NNNC|Unknown||||
+47||Cap|Capacitor|Cp7|100nF|{URL}{URL.TEXT}Sams{URL.TIP}Component|CL10B104KB8NNNC|Unknown||||
+48||Cap|Capacitor|Cs1|100nF|{URL}{URL.TEXT}Sams{URL.TIP}Component|CL10B104KB8NNNC|Unknown||||
+49||Cap|Capacitor|Cs3|100nF|{URL}{URL.TEXT}Sams{URL.TIP}Component|CL10B104KB8NNNC|Unknown||||
+50||Cap|Capacitor|Cs4|100nF|{URL}{URL.TEXT}Sams{URL.TIP}Component|CL10B104KB8NNNC|Unknown||||
+51||Cap|Capacitor|Cc11|1uF|{URL}{URL.TEXT}Samsung{URL.TIP}Component|CL10A105KP8NNNC|Volume Production||||
+52||FTSH-105-01-F-D-K|Header, 5-Pin, Dual row|Jc1||{URL}{URL.TEXT}Samtec{URL.TIP}Component|FTSH-105-01-F-D-K|Volume Production||||
+53||SHTC3|Humidity and Temperature Sensor IC: - Ultra-low power consumption- Full battery supply voltage range (1.62 - 3.6 V)- Small DFN package: 2 × 2 × 0.75 mm3- Typical accuracy: ±2 %RH and ±0.2 °C- Fully calibrated and reflow solderable- Power-up and measurement within 1 ms|Us1||{URL}{URL.TEXT}Sensirion{URL.TIP}Component|3.000.047|Unknown||||
+54||Res1|Resistor|Ra2|10K|{URL}{URL.TEXT}Stackpole%20Electronics{URL.TIP}Component|RNCP0603FTD10K0|Volume Production||||
+55||Res1|Resistor|Ra3|10K|{URL}{URL.TEXT}Stackpole%20Electronics{URL.TIP}Component|RNCP0603FTD10K0|Volume Production||||
+56||Res1|Resistor|Ra4|10K|{URL}{URL.TEXT}Stackpole%20Electronics{URL.TIP}Component|RNCP0603FTD10K0|Volume Production||||
+57||Res1|Resistor|Rc12|10K|{URL}{URL.TEXT}Stackpole%20Electronics{URL.TIP}Component|RNCP0603FTD10K0|Volume Production||||
+58||Res1|Resistor|Rc13|10K|{URL}{URL.TEXT}Stackpole%20Electronics{URL.TIP}Component|RNCP0603FTD10K0|Volume Production||||
+59||Res1|Resistor|Rc14|10K|{URL}{URL.TEXT}Stackpole%20Electronics{URL.TIP}Component|RNCP0603FTD10K0|Volume Production||||
+60||Res1|Resistor|Rc15|10K|{URL}{URL.TEXT}Stackpole%20Electronics{URL.TIP}Component|RNCP0603FTD10K0|Volume Production||||
+61||Res1|Resistor|Rp4|54k9|{URL}{URL.TEXT}Stackpole%20Electronics{URL.TIP}Component|RMCF0603FT54K9|Volume Production||||
+62||Res1|Resistor|Rp5|10K|{URL}{URL.TEXT}Stackpole%20Electronics{URL.TIP}Component|RNCP0603FTD10K0|Volume Production||||
+63||Res1|Resistor|Rs10|0|{URL}{URL.TEXT}Stackpole%20Electronics{URL.TIP}Component|RMCF0603ZT0R00|Volume Production||||
+64||Res1|Resistor|Rs11|0|{URL}{URL.TEXT}Stackpole%20Electronics{URL.TIP}Component|RMCF0603ZT0R00|Volume Production||||
+65||Res1|Resistor|Rs2|10K|{URL}{URL.TEXT}Stackpole%20Electronics{URL.TIP}Component|RNCP0603FTD10K0|Volume Production||||
+66||Res1|Resistor|Rs3|10K|{URL}{URL.TEXT}Stackpole%20Electronics{URL.TIP}Component|RNCP0603FTD10K0|Volume Production||||
+67||Res1|Resistor|Rs5|10K|{URL}{URL.TEXT}Stackpole%20Electronics{URL.TIP}Component|RNCP0603FTD10K0|Volume Production||||
+68||Res1|Resistor|Rs7|10K|{URL}{URL.TEXT}Stackpole%20Electronics{URL.TIP}Component|RNCP0603FTD10K0|Volume Production||||
+69||Res1|Resistor|Rs8|0|{URL}{URL.TEXT}Stackpole%20Electronics{URL.TIP}Component|RMCF0603ZT0R00|Volume Production||||
+70||Res1|Resistor|Rs9|0|{URL}{URL.TEXT}Stackpole%20Electronics{URL.TIP}Component|RMCF0603ZT0R00|Volume Production||||
+71||LM358DT|LM358 Series 30 V 1.1 MHz Low Power Dual Operational Amplifier - SOIC-8|Us2||{URL}{URL.TEXT}STMicroelectronics{URL.TIP}Component|LM358DT|Volume Production||||
+72||Inductor|Inductor|Lc1|10uH|{URL}{URL.TEXT}Taiyo%20Yuden{URL.TIP}Component|CKS2125100M-T|Volume Production||||
+73||MLZ2012N220LT000|Inductor|Lp1|22uH|{URL}{URL.TEXT}TDK{URL.TIP}Component|MLZ2012N220LT000|Volume Production||||
+74||LMR14010A|LMR14010A 4-V to 40-V, 1-A Step-Down Converter With High Efficiency Eco-mode|Up2||{URL}{URL.TEXT}Texas%20Instruments{URL.TIP}Component|LMR14010ADDCR|Unknown||||
+75||MOSFET-N|N-Channel MOSFET|Qa1||{URL}{URL.TEXT}Toshiba{URL.TIP}Component|T2N7002AK,LM|Volume Production||||
+76||74404043220A|Inductor|Lp2|22uH|{URL}{URL.TEXT}Wurth%20Electronics{URL.TIP}Component|74404043220A|Unknown||||
+77||Header 5|Header, 5-Pin|Jp3||{URL}{URL.TEXT}Wurth%20Electronics{URL.TIP}Component|614105150721|Volume Production||||
+78||LED1|Typical INFRARED GaAs LED|Dc3||{URL}{URL.TEXT}Wurth%20Electronics{URL.TIP}Component|150080RS75000|Volume Production||||
+79||LED2|Typical INFRARED GaAs LED|Dc4||{URL}{URL.TEXT}Wurth%20Electronics{URL.TIP}Component|150080YS75000|Volume Production||||
+80||LED3|Typical INFRARED GaAs LED|Dc5||{URL}{URL.TEXT}Wurth%20Electronics{URL.TIP}Component|150080VS75000|Volume Production||||
+81||Cap|Capacitor|Cc15|1pF|{URL}{URL.TEXT}Yageo{URL.TIP}Component|CC0603CRNPO9BN1R0|Volume Production||||
+82||Cap|Capacitor|Cc16|1pF|{URL}{URL.TEXT}Yageo{URL.TIP}Component|CC0603CRNPO9BN1R0|Volume Production||||
+83||Cap|Capacitor|Cc17|1pF|{URL}{URL.TEXT}Yageo{URL.TIP}Component|CC0603CRNPO9BN1R0|Volume Production||||
+84||Cap|Capacitor|Cc24|1p8F|{URL}{URL.TEXT}Yageo{URL.TIP}Component|CC0603CRNPO9BN1R8|Volume Production||||
+85||Res1|Resistor|Ra1|470|{URL}{URL.TEXT}Yageo{URL.TIP}Component|RC0603FR-07470RL|Volume Production||||
+86||Res1|Resistor|Ra5|470|{URL}{URL.TEXT}Yageo{URL.TIP}Component|RC0603FR-07470RL|Volume Production||||
+87||Res1|Resistor|Rc10|2K2|{URL}{URL.TEXT}Yageo{URL.TIP}Component|RC0603FR-07220KL|Volume Production||||
+88||Res1|Resistor|Rc11|2K2|{URL}{URL.TEXT}Yageo{URL.TIP}Component|RC0603FR-07220KL|Volume Production||||
+89||Res1|Resistor|Rc9|2K2|{URL}{URL.TEXT}Yageo{URL.TIP}Component|RC0603FR-07220KL|Volume Production||||
+90||Res1|Resistor|Rp1|53K6|{URL}{URL.TEXT}Yageo{URL.TIP}Component|RC0603FR-07536KL|Volume Production||||
+91||Res1|Resistor|Rs1|33|{URL}{URL.TEXT}Yageo{URL.TIP}Component|RC0603FR-07330RL|Volume Production||||
+92||Res1|Resistor|Rs4|4k7|{URL}{URL.TEXT}Yageo{URL.TIP}Component|RC0603JR-0747KL|Volume Production||||
+93||Res1|Resistor|Rs6|4k7|{URL}{URL.TEXT}Yageo{URL.TIP}Component|RC0603JR-0747KL|Volume Production||||

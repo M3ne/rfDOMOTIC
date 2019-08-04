@@ -224,6 +224,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document12]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Slave_brd\Design Rule Check - Slave_brd.html
 DItemRevisionGUID=
@@ -370,7 +387,7 @@ PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate
 Name=Documentation Outputs
 Description=
 TargetPrinter=Virtual Printer
-PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
 OutputType1=Composite
 OutputName1=Composite Drawing
 OutputDocumentPath1=
@@ -418,7 +435,9 @@ OutputName7=Schematic Prints
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=0.00|YCorrection=0.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration7_Name1=OutputConfigurationParameter1
+Configuration7_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType8=SimView Print
 OutputName8=SimView Prints
 OutputDocumentPath8=
@@ -526,6 +545,30 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=Filter
+Configuration1_Item2=545046300E5446696C74657257726170706572000F46696C7465722E43726974657269610A04000000000000000000
+Configuration1_Name3=ForceUpdateSettings
+Configuration1_Item3=False
+Configuration1_Name4=General
+Configuration1_Item4=OpenExported=True|AddToProject=True|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=True|ShowExportOptions=True|TemplateFilename=C:\Users\Public\Documents\Altium\AD18\Templates\BOM Default Template.XLT|BatchMode=5|FormWidth=956|FormHeight=659|SupplierProdQty=5|SupplierAutoQty=True|SupplierUseCachedPricing=False|SupplierCurrency=<none>|ViewType=0
+Configuration1_Name5=GroupOrder
+Configuration1_Item5=
+Configuration1_Name6=PCBDocument
+Configuration1_Item6=FileName=Slave_brd.PcbDoc
+Configuration1_Name7=PCBDocument2
+Configuration1_Item7=FileName=[PCB Document 1]
+Configuration1_Name8=SortOrder
+Configuration1_Item8=
+Configuration1_Name9=VisibleOrder
+Configuration1_Item9=Line #=84|Comment=50|Description=80|Designator=78|Quantity=65|Manufacturer 1=100|Manufacturer Part Number 1=138|Manufacturer Lifecycle 1=145|Supplier 1=73|Supplier Part Number 1=111|Supplier Unit Price 1=89|Supplier Subtotal 1=120|Footprint=100|Supplier Currency 1=100|Supplier Order Qty 1=100|Supplier Stock 1=100
+Configuration1_Name10=VisibleOrder_Base
+Configuration1_Item10=Line #=84|Comment=50|Description=80|Designator=78|Quantity=65|Manufacturer 1=100|Manufacturer Part Number 1=138|Manufacturer Lifecycle 1=145|Supplier 1=73|Supplier Part Number 1=111|Supplier Unit Price 1=89|Supplier Subtotal 1=120|Footprint=100|Supplier Currency 1=100|Supplier Order Qty 1=100|Supplier Stock 1=100
+Configuration1_Name11=VisibleOrder_Consolidated
+Configuration1_Item11=Line #=52|Comment=122|Description=104|Designator=559|Manufacturer 1=100|Manufacturer Part Number 1=138|Manufacturer Lifecycle 1=145|Supplier 1=73|Supplier Part Number 1=111|Supplier Unit Price 1=89|Supplier Subtotal 1=120
+Configuration1_Name12=VisibleOrder_Flat
+Configuration1_Item12=Line #=52|Comment=122|Description=80|Designator=78|Manufacturer 1=100|Manufacturer Part Number 1=138|Manufacturer Lifecycle 1=145|Supplier 1=73|Supplier Part Number 1=111|Supplier Unit Price 1=89|Supplier Subtotal 1=120
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
@@ -1011,7 +1054,7 @@ Type61=1
 Type62=1
 
 [Electrical Rules Check]
-Type1=1
+Type1=0
 Type2=1
 Type3=2
 Type4=1
