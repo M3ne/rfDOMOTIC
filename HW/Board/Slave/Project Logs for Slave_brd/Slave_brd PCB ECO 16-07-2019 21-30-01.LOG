@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=NetCc9_2 Pin=Uc1-5
+Removed Pin From Net: NetName=NetRc14_2 Pin=Uc1-6
+Removed Pin From Net: NetName=NetRc15_2 Pin=Uc1-7
+Removed Pin From Net: NetName=NetJs1_4 Pin=Uc1-9
+Removed Pin From Net: NetName=NetJs1_5 Pin=Uc1-10
+Removed Pin From Net: NetName=VDDS Pin=Uc1-11
+Removed Pin From Net: NetName=NetCc11_1 Pin=Uc1-12
+Removed Pin From Net: NetName=NetJc1_2 Pin=Uc1-13
+Removed Pin From Net: NetName=NetJc1_4 Pin=Uc1-14
+Removed Pin From Net: NetName=NetJc1_6 Pin=Uc1-15
+Removed Pin From Net: NetName=NetJc1_8 Pin=Uc1-16
+Removed Pin From Net: NetName=NetLc1_1 Pin=Uc1-17
+Removed Pin From Net: NetName=VDDS Pin=Uc1-18
+Removed Pin From Net: NetName=NetCc8_2 Pin=Uc1-19
+Removed Pin From Net: NetName=NetRs4_2 Pin=Uc1-20
+Removed Pin From Net: NetName=NetRs6_2 Pin=Uc1-21
+Removed Pin From Net: NetName=NetRp3_1 Pin=Uc1-22
+Removed Pin From Net: NetName=NetRa3_1 Pin=Uc1-23
+Removed Pin From Net: NetName=NetRa1_2 Pin=Uc1-24
+Removed Pin From Net: NetName=NetDc3_2 Pin=Uc1-25
+Removed Pin From Net: NetName=NetDc4_2 Pin=Uc1-26
+Removed Pin From Net: NetName=NetDc5_2 Pin=Uc1-27
+Removed Pin From Net: NetName=VDDS Pin=Uc1-28
+Removed Pin From Net: NetName=VDDR Pin=Uc1-29
+Removed Pin From Net: NetName=NetUc1_30 Pin=Uc1-30
+Removed Pin From Net: NetName=NetUc1_31 Pin=Uc1-31
+Removed Pin From Net: NetName=VDDR Pin=Uc1-32
+Removed Pin From Net: NetName=GND Pin=Uc1-33
+Change Component Footprint: Designator=Uc1 Old Footprint=VQFN-32(RHB-VIAS) New Footprint=VQFN-48(RGZ)
+Change Component Comment : Designator=Uc1 Old Comment=CC2650F128RHBR New Comment=CC2650F128RGZ
+Change component parameters: Designator = "Uc1"; Footprint = "VQFN-48(RGZ)"; UniqueID = "\BWWNTCDE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/product/CC2650"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCc9_2 Pin=Uc1-3
+Added Pin To Net: NetName=NetJs1_4 Pin=Uc1-12
+Added Pin To Net: NetName=VDDS Pin=Uc1-13
+Added Pin To Net: NetName=NetJs1_5 Pin=Uc1-14
+Added Pin To Net: NetName=NetRc14_2 Pin=Uc1-16
+Added Pin To Net: NetName=NetRc15_2 Pin=Uc1-17
+Added Pin To Net: NetName=VDDS Pin=Uc1-22
+Added Pin To Net: NetName=NetCc11_1 Pin=Uc1-23
+Added Pin To Net: NetName=NetJc1_2 Pin=Uc1-24
+Added Pin To Net: NetName=NetJc1_4 Pin=Uc1-25
+Added Pin To Net: NetName=NetJc1_6 Pin=Uc1-26
+Added Pin To Net: NetName=NetJc1_8 Pin=Uc1-27
+Added Pin To Net: NetName=NetDc3_2 Pin=Uc1-28
+Added Pin To Net: NetName=NetDc4_2 Pin=Uc1-29
+Added Pin To Net: NetName=NetDc5_2 Pin=Uc1-30
+Added Pin To Net: NetName=NetLc1_1 Pin=Uc1-33
+Added Pin To Net: NetName=VDDS Pin=Uc1-34
+Added Pin To Net: NetName=NetCc8_2 Pin=Uc1-35
+Added Pin To Net: NetName=NetRp3_1 Pin=Uc1-37
+Added Pin To Net: NetName=NetRs4_2 Pin=Uc1-38
+Added Pin To Net: NetName=NetRs6_2 Pin=Uc1-39
+Added Pin To Net: NetName=NetRa3_1 Pin=Uc1-42
+Added Pin To Net: NetName=VDDS Pin=Uc1-44
+Added Pin To Net: NetName=VDDR Pin=Uc1-45
+Added Pin To Net: NetName=NetUc1_30 Pin=Uc1-46
+Added Pin To Net: NetName=NetUc1_31 Pin=Uc1-47
+Added Pin To Net: NetName=VDDR Pin=Uc1-48
+Added Pin To Net: NetName=GND Pin=Uc1-49
+Change Net Name : Old Net Name=NetUc1_30 New Net Name=NetUc1_46
+Change Net Name : Old Net Name=NetUc1_31 New Net Name=NetUc1_47

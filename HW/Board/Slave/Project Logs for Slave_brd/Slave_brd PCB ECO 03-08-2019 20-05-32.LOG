@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PSU1_low Pin=Uc1-37
+Added Pin To Net: NetName=PSU1_low Pin=Uc1-19
+Added Pin To Net: NetName=NetRp1_1 Pin=Uc1-37
+Change Net Name : Old Net Name=NetRp1_1 New Net Name=PSU1_low
+Change Net Name : Old Net Name=PSU1_low New Net Name=NetRp3_1

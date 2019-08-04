@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=CRc1-3
+Removed Pin From Net: NetName=NetCc8_2 Pin=CRc1-6
+Removed Pin From Net: NetName=VCC Pin=CRc1-7
+Removed Member From Class: ClassName=Controls Member=CRc1
+Added Pin To Net: NetName=NetJc1_2 Pin=Jc1-2
+Added Pin To Net: NetName=NetJc1_2 Pin=Uc1-13
+Added Net: Name=NetJc1_2
+Added Pin To Net: NetName=NetJc1_4 Pin=Jc1-4
+Added Pin To Net: NetName=NetJc1_4 Pin=Uc1-14
+Added Net: Name=NetJc1_4
+Added Pin To Net: NetName=NetJc1_6 Pin=Jc1-6
+Added Pin To Net: NetName=NetJc1_6 Pin=Uc1-15
+Added Net: Name=NetJc1_6
+Added Pin To Net: NetName=NetJc1_8 Pin=Jc1-8
+Added Pin To Net: NetName=NetJc1_8 Pin=Uc1-16
+Added Net: Name=NetJc1_8

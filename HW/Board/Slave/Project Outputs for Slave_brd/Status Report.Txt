@@ -1,25 +1,9 @@
-Output: ODB++ Files
-Type  : ODB
+Output: Bill of Materials
+Type  : BOM
 From  : Variant [[No Variations]] of Project [Slave_brd.PrjPCB]
-   Generated File[matrix]
-   Generated File[profile]
-   Generated File[stephdr]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[tools]
-   Generated File[features]
-   Generated File[components]
-   Generated File[features]
-   Generated File[components]
-   Generated File[features]
-   Generated File[tools]
-   Generated File[data]
-   Generated File[netlist]
-   Generated File[Slave_brd.REP]
 
 
-Files Generated   : 16
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 21:15:45 On 23/05/2019
+Finished Output Generation At 20:58:53 On 27/06/2019
